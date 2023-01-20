@@ -1,2 +1,0 @@
-# patikadevodevbionarysearchtree
-Bionary Search Tree
